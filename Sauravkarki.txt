@@ -1,0 +1,9 @@
+Name: Saurav Karki
+Section: A
+Roll No: 37
+Days present: 6 days
+Netlify site url: https://sauravkarkii.netlify.app/
+
+Learnings
+-----------------
+In this 6-day workshop, I learned how to use version control to track project changes and collaborate with others. I explored the basics of Git—initializing repositories, staging, committing, branching, and merging—and practiced linking local projects with GitHub. I also worked on pushing and pulling updates, resolving conflicts, and managing teamwork through issues and pull requests. This workshop gave me both the knowledge and confidence to use Git and GitHub effectively in real projects.
